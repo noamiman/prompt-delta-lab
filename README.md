@@ -38,29 +38,6 @@ Enter an original prompt and a changed prompt, then click **Generate comparison*
 - A plot of overall prompt change versus image change
 - The words added, removed, or replaced between the prompts
 
-## GUI Screenshots
-
-### Prompt Entry
-
-![Prompt Delta Lab desktop interface](docs/gui_prompt_entry.png)
-
-The desktop view provides two prompt workspaces: **Original prompt** and **Changed prompt**. Each accepts typed text or an uploaded `.txt` file. The sidebar controls the random seed and diffusion steps, so experiments can be repeated with the same generation settings. **Generate comparison** starts the Stable Diffusion and CLIP pipeline.
-
-On a narrow screen, the same controls stack into a mobile-friendly layout:
-
-![Prompt Delta Lab mobile interface](docs/gui_mobile_prompt_entry.png)
-
-### Results After Generation
-
-After generation, the app adds two generated images followed by four CLIP measurements:
-
-- **Prompt similarity**: similarity between the two prompt embeddings.
-- **Image similarity**: similarity between the two image embeddings.
-- **Image-text delta**: how the changed prompt-image alignment differs from the base pair.
-- **Base alignment**: alignment between the original prompt and original image.
-
-The results section also contains a two-part graph. The first panel compares overall prompt movement with image movement. The second lists the words added, removed, or replaced between the prompts and associates them with the measured alignment shift. This word view describes the complete prompt edit; it is not a causal test of each word in isolation.
-
 ## Reproduce the Research Dataset
 
 The checked-in dataset is under `data/Dataset/`. To build a new run from prompts:
