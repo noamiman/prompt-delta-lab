@@ -1,0 +1,6 @@
+category,label,base_prompt,variation_prompt,delta_similarity,added_words,removed_words,replaced_words
+10_abstract_graphic,variation_01,A minimalist vector art pattern of sharp geometric triangles,A minimalist vector art pattern of soft geometric circles,-0.004,soft | circles,sharp | triangles,sharp->soft | triangles->circles
+10_abstract_graphic,variation_02,A minimalist vector art pattern of sharp geometric triangles,A black and white vector art pattern of sharp geometric triangles,0.041,black | and | white | and | white,minimalist,minimalist->black
+10_abstract_graphic,variation_03,A minimalist vector art pattern of sharp geometric triangles,A 3D neon wireframe pattern of sharp geometric triangles,0.017,3d | neon | wireframe,minimalist | vector | art,minimalist->3d | vector->neon | art->wireframe
+10_abstract_graphic,variation_04,A minimalist vector art pattern of sharp geometric triangles,A highly complex and chaotic vector art pattern of sharp geometric triangles,0.013,highly | complex | and | chaotic | complex | and | chaotic,minimalist,minimalist->highly
+10_abstract_graphic,variation_05,A minimalist vector art pattern of sharp geometric triangles,A minimalist vector art pattern of sharp metallic triangles,-0.012,metallic,geometric,geometric->metallic

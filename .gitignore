@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.DS_Store
+.streamlit/
+
+# Large model caches and local runtime outputs
+huggingface_cache/
+outputs/
+
+# Keep checked-in research artifacts under data/, examples/, and results/.

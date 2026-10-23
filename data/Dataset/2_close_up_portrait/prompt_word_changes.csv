@@ -1,0 +1,6 @@
+category,label,base_prompt,variation_prompt,delta_similarity,added_words,removed_words,replaced_words
+2_close_up_portrait,variation_01,A close-up studio portrait of a smiling woman with long brown hair,A close-up studio portrait of a crying woman with long brown hair,0.085,crying,smiling,smiling->crying
+2_close_up_portrait,variation_02,A close-up studio portrait of a smiling woman with long brown hair,A close-up studio portrait of a smiling woman with long brown hair wearing sunglasses,0.033,wearing | sunglasses,,
+2_close_up_portrait,variation_03,A close-up studio portrait of a smiling woman with long brown hair,A close-up studio portrait of a smiling old woman with long brown hair,0.057,old,,
+2_close_up_portrait,variation_04,A close-up studio portrait of a smiling woman with long brown hair,A close-up studio portrait of a smiling woman with long brown hair in neon cyberpunk lighting,0.093,in | neon | cyberpunk | lighting,,
+2_close_up_portrait,variation_05,A close-up studio portrait of a smiling woman with long brown hair,A close-up studio portrait of a smiling woman with long bright green hair,0.051,bright | green | green,brown,brown->bright

@@ -1,0 +1,6 @@
+base: A top-down photograph of a white ceramic plate with a fresh chocolate cake
+variation_01: A top-down photograph of a white ceramic plate with a cheese pizza
+variation_02: A top-down photograph of a white ceramic plate with a fresh chocolate cake topped with strawberries
+variation_03: A top-down photograph of a golden metal plate with a fresh chocolate cake
+variation_04: A top-down photograph of a white ceramic plate with a half-eaten chocolate cake
+variation_05: A top-down photograph on a dark stone surface of a white ceramic plate with a fresh chocolate cake

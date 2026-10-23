@@ -1,0 +1,6 @@
+category,label,base_prompt,variation_prompt,delta_similarity,added_words,removed_words,replaced_words
+4_animal_portrait,variation_01,A cinematic shot of a golden retriever dog sitting on a green lawn,A cinematic shot of a black cat sitting on a green lawn,0.032,black | cat,golden | retriever | dog | dog,golden->black | retriever->cat
+4_animal_portrait,variation_02,A cinematic shot of a golden retriever dog sitting on a green lawn,A cinematic shot of a golden retriever dog sleeping on a green lawn,0.019,sleeping,sitting,sitting->sleeping
+4_animal_portrait,variation_03,A cinematic shot of a golden retriever dog sitting on a green lawn,A cinematic shot of a golden retriever dog sitting on a sandy beach,0.000,sandy | beach,green | lawn,green->sandy | lawn->beach
+4_animal_portrait,variation_04,A cinematic shot of a golden retriever dog sitting on a green lawn,A cinematic shot of a golden retriever dog wearing a red collar sitting on a green lawn,0.017,wearing | a | red | collar,,
+4_animal_portrait,variation_05,A cinematic shot of a golden retriever dog sitting on a green lawn,A watercolor painting of a golden retriever dog sitting on a green lawn,0.013,watercolor | painting,cinematic | shot,cinematic->watercolor | shot->painting

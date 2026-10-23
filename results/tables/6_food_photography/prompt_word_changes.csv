@@ -1,0 +1,6 @@
+category,label,base_prompt,variation_prompt,delta_similarity,added_words,removed_words,replaced_words
+6_food_photography,variation_01,A top-down photograph of a white ceramic plate with a fresh chocolate cake,A top-down photograph of a white ceramic plate with a cheese pizza,-0.015,cheese | pizza,fresh | chocolate | cake | cake,fresh->cheese | chocolate->pizza
+6_food_photography,variation_02,A top-down photograph of a white ceramic plate with a fresh chocolate cake,A top-down photograph of a white ceramic plate with a fresh chocolate cake topped with strawberries,0.044,topped | with | strawberries,,
+6_food_photography,variation_03,A top-down photograph of a white ceramic plate with a fresh chocolate cake,A top-down photograph of a golden metal plate with a fresh chocolate cake,0.035,golden | metal,white | ceramic,white->golden | ceramic->metal
+6_food_photography,variation_04,A top-down photograph of a white ceramic plate with a fresh chocolate cake,A top-down photograph of a white ceramic plate with a half-eaten chocolate cake,0.022,half-eaten,fresh,fresh->half-eaten
+6_food_photography,variation_05,A top-down photograph of a white ceramic plate with a fresh chocolate cake,A top-down photograph on a dark stone surface of a white ceramic plate with a fresh chocolate cake,0.050,on | a | dark | stone | surface,,

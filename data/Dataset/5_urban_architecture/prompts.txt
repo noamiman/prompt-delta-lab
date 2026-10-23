@@ -1,0 +1,6 @@
+base: A street-level view of a modern skyscraper building in a busy downtown area
+variation_01: A street-level view of a modern skyscraper building at sunset
+variation_02: A street-level view of a gothic cathedral building in a busy downtown area
+variation_03: A street-level view of a modern skyscraper building on a heavy rainy day
+variation_04: A street-level view of an abandoned ruined skyscraper building in a busy downtown area
+variation_05: A street-level view of a bright yellow skyscraper building in a busy downtown area

@@ -1,0 +1,7 @@
+label,prompt,image_path,base_similarity,variation_similarity,delta_similarity,text_delta_similarity,image_delta_similarity
+base,A wide landscape photograph of a mountain range under a clear blue sky,Dataset/1_natural_landscape/base_A_wide_landscape_photograph_of_a_mountain_range_under_a_clear_blue_sky.png,0.245,0.245,0.000,1.000,1.000
+variation_01,A wide landscape photograph of a mountain range under a stormy night sky,Dataset/1_natural_landscape/variation_01_A_wide_landscape_photograph_of_a_mountain_range_under_a_stormy_night_sky.png,0.245,0.285,0.040,0.538,0.874
+variation_02,A wide landscape photograph of a mountain range covered in thick white snow,Dataset/1_natural_landscape/variation_02_A_wide_landscape_photograph_of_a_mountain_range_covered_in_thick_white_snow.png,0.245,0.270,0.025,0.742,0.843
+variation_03,A wide landscape photograph of a mountain range with a wooden cabin in the foreground,Dataset/1_natural_landscape/variation_03_A_wide_landscape_photograph_of_a_mountain_range_with_a_wooden_cabin_in_the_foreg.png,0.245,0.273,0.028,0.665,0.859
+variation_04,An oil painting of a mountain range under a clear blue sky,Dataset/1_natural_landscape/variation_04_An_oil_painting_of_a_mountain_range_under_a_clear_blue_sky.png,0.245,0.264,0.019,0.845,0.780
+variation_05,A wide landscape photograph of a mountain range under a glowing purple sky,Dataset/1_natural_landscape/variation_05_A_wide_landscape_photograph_of_a_mountain_range_under_a_glowing_purple_sky.png,0.245,0.282,0.037,0.644,0.914

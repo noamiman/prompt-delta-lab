@@ -1,0 +1,7 @@
+label,prompt,image_path,base_similarity,variation_similarity,delta_similarity,text_delta_similarity,image_delta_similarity
+base,A street-level view of a modern skyscraper building in a busy downtown area,Dataset/5_urban_architecture/base_A_street_level_view_of_a_modern_skyscraper_building_in_a_busy_downtown_area.png,0.235,0.235,0.000,1.000,1.000
+variation_01,A street-level view of a modern skyscraper building at sunset,Dataset/5_urban_architecture/variation_01_A_street_level_view_of_a_modern_skyscraper_building_at_sunset.png,0.235,0.201,-0.033,0.784,0.900
+variation_02,A street-level view of a gothic cathedral building in a busy downtown area,Dataset/5_urban_architecture/variation_02_A_street_level_view_of_a_gothic_cathedral_building_in_a_busy_downtown_area.png,0.235,0.249,0.014,0.826,0.712
+variation_03,A street-level view of a modern skyscraper building on a heavy rainy day,Dataset/5_urban_architecture/variation_03_A_street_level_view_of_a_modern_skyscraper_building_on_a_heavy_rainy_day.png,0.235,0.240,0.005,0.758,0.841
+variation_04,A street-level view of an abandoned ruined skyscraper building in a busy downtown area,Dataset/5_urban_architecture/variation_04_A_street_level_view_of_an_abandoned_ruined_skyscraper_building_in_a_busy_downtow.png,0.235,0.243,0.009,0.834,0.783
+variation_05,A street-level view of a bright yellow skyscraper building in a busy downtown area,Dataset/5_urban_architecture/variation_05_A_street_level_view_of_a_bright_yellow_skyscraper_building_in_a_busy_downtown_ar.png,0.235,0.253,0.019,0.803,0.885

@@ -1,0 +1,6 @@
+base: A wide-angle photo of a minimalist living room with a white sofa
+variation_01: A wide-angle photo of a chaotic vintage living room with a white sofa
+variation_02: A wide-angle photo of a minimalist living room with a dark leather sofa
+variation_03: A wide-angle photo of a minimalist living room with a white sofa and a roaring fireplace
+variation_04: A wide-angle photo of a minimalist living room with a white sofa illuminated by moonlight through the window
+variation_05: A wide-angle photo of a minimalist living room with a transparent glass sofa

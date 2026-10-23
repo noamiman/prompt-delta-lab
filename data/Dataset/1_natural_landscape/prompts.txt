@@ -1,0 +1,6 @@
+base: A wide landscape photograph of a mountain range under a clear blue sky
+variation_01: A wide landscape photograph of a mountain range under a stormy night sky
+variation_02: A wide landscape photograph of a mountain range covered in thick white snow
+variation_03: A wide landscape photograph of a mountain range with a wooden cabin in the foreground
+variation_04: An oil painting of a mountain range under a clear blue sky
+variation_05: A wide landscape photograph of a mountain range under a glowing purple sky

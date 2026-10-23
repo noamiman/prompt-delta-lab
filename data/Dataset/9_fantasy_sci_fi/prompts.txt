@@ -1,0 +1,6 @@
+base: A detailed illustration of a glowing crystal sword floating in the air
+variation_01: A detailed illustration of a glowing crystal shield floating in the air
+variation_02: A detailed illustration of a dark shadowy sword floating in the air
+variation_03: A 3D digital render of a glowing crystal sword floating in the air
+variation_04: A detailed illustration of a glowing crystal sword embedded inside a giant rock
+variation_05: A detailed illustration of a glowing crystal sword covered in burning flames floating in the air

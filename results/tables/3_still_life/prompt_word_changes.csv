@@ -1,0 +1,6 @@
+category,label,base_prompt,variation_prompt,delta_similarity,added_words,removed_words,replaced_words
+3_still_life,variation_01,A high-quality photograph of a red apple resting on a rustic wooden table,A high-quality photograph of a glass bottle resting on a rustic wooden table,0.015,glass | bottle,red | apple,red->glass | apple->bottle
+3_still_life,variation_02,A high-quality photograph of a red apple resting on a rustic wooden table,A high-quality photograph of a red apple resting on a shiny marble table,0.023,shiny | marble,rustic | wooden,rustic->shiny | wooden->marble
+3_still_life,variation_03,A high-quality photograph of a red apple resting on a rustic wooden table,A high-quality photograph of a black apple resting on a rustic wooden table,0.016,black,red,red->black
+3_still_life,variation_04,A high-quality photograph of a red apple resting on a rustic wooden table,A high-quality photograph of a red apple and a sharp knife resting on a rustic wooden table,0.019,and | a | sharp | knife,,
+3_still_life,variation_05,A high-quality photograph of a red apple resting on a rustic wooden table,A high-quality photograph of a sliced apple resting on a rustic wooden table,-0.026,sliced,red,red->sliced

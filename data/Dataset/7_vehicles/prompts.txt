@@ -1,0 +1,6 @@
+base: A profile shot of a sleek sports car parked on an empty highway
+variation_01: A profile shot of a rusty old truck parked on an empty highway
+variation_02: A profile shot of a bright pink sports car parked on an empty highway
+variation_03: A profile shot of a sleek sports car parked on an empty highway under foggy morning mist
+variation_04: A profile shot of a burning sports car parked on an empty highway
+variation_05: A profile shot of a sleek sports car parked in a futuristic spaceship hangar

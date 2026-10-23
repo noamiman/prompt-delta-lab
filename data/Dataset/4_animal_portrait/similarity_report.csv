@@ -1,0 +1,7 @@
+label,prompt,image_path,base_similarity,variation_similarity,delta_similarity,text_delta_similarity,image_delta_similarity
+base,A cinematic shot of a golden retriever dog sitting on a green lawn,Dataset/4_animal_portrait/base_A_cinematic_shot_of_a_golden_retriever_dog_sitting_on_a_green_lawn.png,0.305,0.305,0.000,1.000,1.000
+variation_01,A cinematic shot of a black cat sitting on a green lawn,Dataset/4_animal_portrait/variation_01_A_cinematic_shot_of_a_black_cat_sitting_on_a_green_lawn.png,0.305,0.337,0.032,0.698,0.720
+variation_02,A cinematic shot of a golden retriever dog sleeping on a green lawn,Dataset/4_animal_portrait/variation_02_A_cinematic_shot_of_a_golden_retriever_dog_sleeping_on_a_green_lawn.png,0.305,0.324,0.019,0.920,0.839
+variation_03,A cinematic shot of a golden retriever dog sitting on a sandy beach,Dataset/4_animal_portrait/variation_03_A_cinematic_shot_of_a_golden_retriever_dog_sitting_on_a_sandy_beach.png,0.305,0.305,0.000,0.732,0.770
+variation_04,A cinematic shot of a golden retriever dog wearing a red collar sitting on a green lawn,Dataset/4_animal_portrait/variation_04_A_cinematic_shot_of_a_golden_retriever_dog_wearing_a_red_collar_sitting_on_a_gre.png,0.305,0.322,0.017,0.883,0.878
+variation_05,A watercolor painting of a golden retriever dog sitting on a green lawn,Dataset/4_animal_portrait/variation_05_A_watercolor_painting_of_a_golden_retriever_dog_sitting_on_a_green_lawn.png,0.305,0.318,0.013,0.789,0.734

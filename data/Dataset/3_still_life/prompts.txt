@@ -1,0 +1,6 @@
+base: A high-quality photograph of a red apple resting on a rustic wooden table
+variation_01: A high-quality photograph of a glass bottle resting on a rustic wooden table
+variation_02: A high-quality photograph of a red apple resting on a shiny marble table
+variation_03: A high-quality photograph of a black apple resting on a rustic wooden table
+variation_04: A high-quality photograph of a red apple and a sharp knife resting on a rustic wooden table
+variation_05: A high-quality photograph of a sliced apple resting on a rustic wooden table

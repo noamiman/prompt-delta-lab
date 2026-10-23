@@ -1,0 +1,7 @@
+label,prompt,image_path,base_similarity,variation_similarity,delta_similarity,text_delta_similarity,image_delta_similarity
+base,A detailed illustration of a glowing crystal sword floating in the air,Dataset/9_fantasy_sci_fi/base_A_detailed_illustration_of_a_glowing_crystal_sword_floating_in_the_air.png,0.337,0.337,0.000,1.000,1.000
+variation_01,A detailed illustration of a glowing crystal shield floating in the air,Dataset/9_fantasy_sci_fi/variation_01_A_detailed_illustration_of_a_glowing_crystal_shield_floating_in_the_air.png,0.337,0.307,-0.030,0.867,0.791
+variation_02,A detailed illustration of a dark shadowy sword floating in the air,Dataset/9_fantasy_sci_fi/variation_02_A_detailed_illustration_of_a_dark_shadowy_sword_floating_in_the_air.png,0.337,0.240,-0.097,0.802,0.712
+variation_03,A 3D digital render of a glowing crystal sword floating in the air,Dataset/9_fantasy_sci_fi/variation_03_A_3D_digital_render_of_a_glowing_crystal_sword_floating_in_the_air.png,0.337,0.335,-0.002,0.817,0.740
+variation_04,A detailed illustration of a glowing crystal sword embedded inside a giant rock,Dataset/9_fantasy_sci_fi/variation_04_A_detailed_illustration_of_a_glowing_crystal_sword_embedded_inside_a_giant_rock.png,0.337,0.347,0.010,0.839,0.751
+variation_05,A detailed illustration of a glowing crystal sword covered in burning flames floating in the air,Dataset/9_fantasy_sci_fi/variation_05_A_detailed_illustration_of_a_glowing_crystal_sword_covered_in_burning_flames_flo.png,0.337,0.341,0.004,0.919,0.852

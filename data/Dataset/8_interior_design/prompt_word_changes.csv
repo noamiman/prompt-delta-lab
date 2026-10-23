@@ -1,0 +1,6 @@
+category,label,base_prompt,variation_prompt,delta_similarity,added_words,removed_words,replaced_words
+8_interior_design,variation_01,A wide-angle photo of a minimalist living room with a white sofa,A wide-angle photo of a chaotic vintage living room with a white sofa,-0.003,chaotic | vintage | vintage,minimalist,minimalist->chaotic
+8_interior_design,variation_02,A wide-angle photo of a minimalist living room with a white sofa,A wide-angle photo of a minimalist living room with a dark leather sofa,-0.007,dark | leather | leather,white,white->dark
+8_interior_design,variation_03,A wide-angle photo of a minimalist living room with a white sofa,A wide-angle photo of a minimalist living room with a white sofa and a roaring fireplace,0.013,and | a | roaring | fireplace,,
+8_interior_design,variation_04,A wide-angle photo of a minimalist living room with a white sofa,A wide-angle photo of a minimalist living room with a white sofa illuminated by moonlight through the window,-0.027,illuminated | by | moonlight | through | the | window,,
+8_interior_design,variation_05,A wide-angle photo of a minimalist living room with a white sofa,A wide-angle photo of a minimalist living room with a transparent glass sofa,0.004,transparent | glass | glass,white,white->transparent

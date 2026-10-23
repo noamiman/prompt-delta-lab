@@ -1,0 +1,6 @@
+base: A cinematic shot of a golden retriever dog sitting on a green lawn
+variation_01: A cinematic shot of a black cat sitting on a green lawn
+variation_02: A cinematic shot of a golden retriever dog sleeping on a green lawn
+variation_03: A cinematic shot of a golden retriever dog sitting on a sandy beach
+variation_04: A cinematic shot of a golden retriever dog wearing a red collar sitting on a green lawn
+variation_05: A watercolor painting of a golden retriever dog sitting on a green lawn
